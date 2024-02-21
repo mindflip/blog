@@ -92,6 +92,7 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <link rel="apple-touch-icon" sizes="192x192" href="/apple-touch-icon.png"></link>
           <meta name="google-site-verification" content="NaE_dAy3L9krOCo02uyGA1rma-UYmbxd-Gjpazh56IA" />
+          <meta name="naver-site-verification" content="ec814cf201890fbbbdc934178960921d692f5921" />
           {config.appearance === 'auto'
             ? (
             <>
